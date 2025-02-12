@@ -3037,9 +3037,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _lines:
-  - "La lezione di oggi \xE8 una simulazione di GameJam e dobbiamo mettere su un
-    gioco"
-  - Dal tema "Tra un quarto d'ora"
+  - "Prof: La lezione di oggi \xE8 una simulazione di GameJam e dobbiamo mettere
+    su un gioco"
+  - Prof:Dal tema "Tra un quarto d'ora"
   _lineText: {fileID: 653975372}
 --- !u!114 &210156289
 MonoBehaviour:
@@ -5375,9 +5375,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _pictures:
   - {fileID: 21300000, guid: d17cc3b8f907ab04290cc1edbe2bd619, type: 3}
-  - {fileID: 0}
-  - {fileID: 0}
-  - {fileID: 0}
+  - {fileID: 21300000, guid: d17cc3b8f907ab04290cc1edbe2bd619, type: 3}
+  - {fileID: 6239343936881455084, guid: f92828054de4f686da8e59f0f353049b, type: 3}
+  - {fileID: -209185731622230656, guid: dbe50481dacf6ee1c8581c911dec7c09, type: 3}
+  - {fileID: 21300000, guid: d17cc3b8f907ab04290cc1edbe2bd619, type: 3}
   _currentPicture: {fileID: 1138157231}
   _dialogueCanvas: {fileID: 1119022324}
   _dialogueKeyCanvas: {fileID: 2138511183}
@@ -10517,8 +10518,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _lines:
-  - Ok, ora di tornare in classe...
-  - AAAAAAAAAAAAAAAAAAAAAAAAA
+  - .....Devo andare un attimo in bagno....
+  - Sperando di non addormentarmi di nuovo.
   _lineText: {fileID: 926491151}
 --- !u!114 &856821382
 MonoBehaviour:
@@ -12144,12 +12145,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _lines:
-  - "Ma che c***o succede? Perch\xE9 sembra tutto sotto un me***so filtro horror
-    di Imgratasn"
-  - "E CHI C***O \xC8 CHE CONTINUA A BIPPARMI LE PAROLACCE?!"
-  - Sussurro:<Tra quindici minuti...>
-  - "Non so cosa succeder\xE0 fra 15 minuti ma non voglio restare qui a scoprirlo!\r"
-  - "La porta \xE9 chiusa... meno male che l'avevano riparata!"
+  - Grazie per aver giocato a FUGA DA FORMATICA
+  - 'FOTO WILLIAM
+
+    SCRITTURA DIALOGHI E SUONI PIER
+
+    SCRIPT E TUTTO IL RESTO
+    STELLA E FABIO.'
   _lineText: {fileID: 1408078386}
 --- !u!114 &962709981
 MonoBehaviour:
@@ -15265,9 +15267,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _lines:
-  - "La lezione di oggi \xE8 una simulazione di GameJam e dobbiamo mettere su un
-    gioco"
-  - Dal tema "Tra un quarto d'ora"
+  - '.... Ma che.... '
+  - "Prof :hem hem... il tema  \xE8 \"Tra un quarto d'ora\" ragionateci."
   _lineText: {fileID: 1998392086}
 --- !u!114 &1119022327
 MonoBehaviour:
@@ -17949,7 +17950,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _lines:
   - Ok, ora di tornare in classe...
-  - AAAAAAAAAAAAAAAAAAAAAAAAA
+  - ???!!!???:AAAAAAAAAAAAAAAAAAAAAAAAA
   _lineText: {fileID: 1475472755}
 --- !u!114 &1294263885
 MonoBehaviour:
@@ -27286,11 +27287,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _lines:
-  - "Chiss\xE0 che gioco verr\xE0 fuori..."
-  - 'Certo, se fosse stato sull''equilibrio come pensava il docente...
-
-    Avremmo
-    potuto fare qualcosa tipo Jenga o Tetris... Mah'
+  - "La lezione non \xE8 ancora finita...."
+  - ..... Che figura.....
   _lineText: {fileID: 1164856184}
 --- !u!114 &2138511186
 MonoBehaviour:

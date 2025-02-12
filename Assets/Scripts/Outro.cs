@@ -58,7 +58,7 @@ public class Outro : MonoBehaviour
 
             case 5:
                 _Outro.SetActive(false);
-
+                Application.Quit();
                 break;
         }
     }

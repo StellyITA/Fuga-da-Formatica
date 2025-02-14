@@ -12,9 +12,14 @@ public class Outro : MonoBehaviour
     [SerializeField] private GameObject _dialogueHorrorCanvas;
 
     [SerializeField] private GameObject _Outro;
-
+    [SerializeField] private GameObject _timer;
 
     private int _currentPictureIndex = 0;
+
+    private void Awake()
+    {
+        _timer.SetActive(false);
+    }
 
     public void OnBinClick()
     {

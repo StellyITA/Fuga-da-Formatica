@@ -10,6 +10,7 @@ public class BinLid : MonoBehaviour
     [SerializeField] private GameObject _dialogueCanvas;
     [SerializeField] private GameObject _dialogueKeyCanvas;
     [SerializeField] private GameObject _dialogueLidCanvas;
+    [SerializeField] private GameObject _dialogueClosedLidCanvas;
     private int _currentPictureIndex = 0;
 
     public void OnBinClick()
@@ -48,6 +49,7 @@ public class BinLid : MonoBehaviour
             _currentPictureIndex = 0;
             _currentPicture.sprite = _pictures[0];
             gameObject.SetActive(false);
+            _dialogueClosedLidCanvas.SetActive(true);
         }
     }
 }

@@ -4,8 +4,8 @@ using UnityEngine;
 public class AudioPlayer : MonoBehaviour
 {
     [SerializeField] private AudioSource _audioSource;
-    [SerializeField] private int _secondsToPlay = 0;
-    [SerializeField] private int _secondsToCutAtPlay = 0;
+    [SerializeField] private float _secondsToPlay = 0;
+    [SerializeField] private float _secondsToCutAtPlay = 0;
     [SerializeField] private bool _isMusic;
 
     private void Awake()

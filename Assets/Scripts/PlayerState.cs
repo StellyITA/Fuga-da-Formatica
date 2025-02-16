@@ -2,8 +2,14 @@ using UnityEngine;
 
 public class PlayerState : MonoBehaviour
 {
+    [SerializeField] private GameObject _menuWindow;
     private bool _hasKey = false;
     private bool _isTextPanelActive = false;
+
+    public void OnOpenMenu()
+    {
+        _menuWindow.SetActive(true);
+    }
 
     public void OnTextPanelClick()
     {

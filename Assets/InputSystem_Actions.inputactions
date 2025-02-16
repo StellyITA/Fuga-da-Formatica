@@ -13,6 +13,15 @@
                     "processors": "",
                     "interactions": "",
                     "initialStateCheck": false
+                },
+                {
+                    "name": "OpenMenu",
+                    "type": "Button",
+                    "id": "e766cb09-9ec0-4633-bbd0-8e51a2f75992",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
                 }
             ],
             "bindings": [
@@ -29,12 +38,12 @@
                 },
                 {
                     "name": "",
-                    "id": "2489b90b-cebf-45e3-baba-139bd1a39a73",
-                    "path": "<Keyboard>/space",
+                    "id": "8bbf2454-c648-4944-9576-aa6ed2990fd5",
+                    "path": "<Keyboard>/escape",
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "TextPanelClick",
+                    "action": "OpenMenu",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

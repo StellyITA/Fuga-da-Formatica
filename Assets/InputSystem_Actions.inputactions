@@ -38,6 +38,17 @@
                 },
                 {
                     "name": "",
+                    "id": "22c10619-7ace-4d73-ba05-ab17ac335771",
+                    "path": "<Touchscreen>/Press",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "TextPanelClick",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
                     "id": "8bbf2454-c648-4944-9576-aa6ed2990fd5",
                     "path": "<Keyboard>/escape",
                     "interactions": "",
